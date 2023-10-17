@@ -3,7 +3,8 @@ body {
 }
 
 #author_pics {
-    animation: mover 3s linear infinite;
+   width: 50%;
+   heigt: 100px;
   }
 
 .about_author {
