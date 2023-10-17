@@ -4,13 +4,13 @@ body {
 
 #author_pics {
    width: 50%;
-   heigt: 100px;
+   height: 100px;
   }
 
 .about_author {
-    background: violet;
+    background: rgb(17, 17, 148);
     position: relative;
     top: 50%;
-    rigth: 50%;
+    right: 50%;
     width: 400px;
 }
